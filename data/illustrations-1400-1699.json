@@ -1236,6 +1236,109 @@
       "jpg": "images/1501-1600/generally.jpg",
       "webp": "images/1501-1600/generally.webp",
       "reuse_word": "usual"
+    },
+    {
+      "seq": 1531,
+      "word": "entire",
+      "ip": "—",
+      "scene": "复用 whole 底图（完整披萨与缺角披萨），本词圈完整那只",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 完整披萨与缺角披萨。，本词圈完整那只",
+      "jpg": "images/1501-1600/entire.jpg",
+      "webp": "images/1501-1600/entire.webp",
+      "reuse_word": "whole"
+    },
+    {
+      "seq": 1532,
+      "word": "huge",
+      "ip": "—",
+      "scene": "复用 big 的 G1 底图（两只同款纸箱一大一小），本词圈大箱",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 两只同款纸箱一大一小。，本词圈大箱",
+      "jpg": "images/1501-1600/huge.jpg",
+      "webp": "images/1501-1600/huge.webp",
+      "reuse_word": "big"
+    },
+    {
+      "seq": 1533,
+      "word": "religion",
+      "ip": "—",
+      "scene": "五座不同风格的信仰建筑剪影并排（尖顶、圆顶、塔、坡屋、石窟）",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 五座不同风格的信仰建筑剪影并排（尖顶、圆顶、塔、坡屋、石窟）",
+      "jpg": "images/1501-1600/religion.jpg",
+      "webp": "images/1501-1600/religion.webp"
+    },
+    {
+      "seq": 1534,
+      "word": "identity",
+      "ip": "—",
+      "scene": "一张空白身份卡，卡上是一个人形轮廓与一枚指纹",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一张空白身份卡，卡上是一个人形轮廓与一枚指纹",
+      "jpg": "images/1501-1600/identity.jpg",
+      "webp": "images/1501-1600/identity.webp"
+    },
+    {
+      "seq": 1535,
+      "word": "spirituality",
+      "ip": "萨古鲁",
+      "scene": "萨古鲁盘坐，身体轮廓内升起一缕光带向天空",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. FIRST image is the established recurring Sadhguru character identity in this illustration series: elderly man, long white beard, balding head with a small white topknot, calm friendly expressive face, charcoal sleeveless vest, loose warm brown trousers, barefoot. Preserve this established illustrated identity, not a photographic likeness. Change pose and setting to requested scene. Second image guides medium only. Scene specification: 萨古鲁盘坐，身体轮廓内升起一缕光带向天空",
+      "jpg": "images/1501-1600/spirituality.jpg",
+      "webp": "images/1501-1600/spirituality.webp"
+    },
+    {
+      "seq": 1536,
+      "word": "awareness",
+      "ip": "萨古鲁",
+      "scene": "萨古鲁头周一圈向外扩散的清晰光环，眼半睁",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. FIRST image is the established recurring Sadhguru character identity in this illustration series: elderly man, long white beard, balding head with a small white topknot, calm friendly expressive face, charcoal sleeveless vest, loose warm brown trousers, barefoot. Preserve this established illustrated identity, not a photographic likeness. Change pose and setting to requested scene. Second image guides medium only. Scene specification: 萨古鲁头周一圈向外扩散的清晰光环，眼半睁",
+      "jpg": "images/1501-1600/awareness.jpg",
+      "webp": "images/1501-1600/awareness.webp"
+    },
+    {
+      "seq": 1537,
+      "word": "constantly",
+      "ip": "—",
+      "scene": "一条不间断的循环箭头带，八个点全部填色",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一条不间断的循环箭头带，八个点全部填色",
+      "jpg": "images/1501-1600/constantly.jpg",
+      "webp": "images/1501-1600/constantly.webp"
+    },
+    {
+      "seq": 1538,
+      "word": "value",
+      "ip": "—",
+      "scene": "一枚币与一颗宝石放在天平两端，宝石端下沉",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一枚币与一颗宝石放在天平两端，宝石端下沉",
+      "jpg": "images/1501-1600/value.jpg",
+      "webp": "images/1501-1600/value.webp"
+    },
+    {
+      "seq": 1539,
+      "word": "meditate",
+      "ip": "萨古鲁",
+      "scene": "复用 meditation 底图（萨古鲁盘腿闭目、双手搭膝），本词沿用",
+      "kind": "reuse_pending",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. FIRST image is the established recurring Sadhguru character identity in this illustration series: elderly man, long white beard, balding head with a small white topknot, calm friendly expressive face, charcoal sleeveless vest, loose warm brown trousers, barefoot. Preserve this established illustrated identity, not a photographic likeness. Change pose and setting to requested scene. Second image guides medium only. Scene specification: 萨古鲁盘腿闭目、双手搭膝",
+      "jpg": "images/1501-1600/meditate.jpg",
+      "webp": "images/1501-1600/meditate.webp",
+      "reuse_seq": 1515
+    },
+    {
+      "seq": 1540,
+      "word": "somehow",
+      "ip": "—",
+      "scene": "一条路在中途绕开一块巨石，仍通向终点",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一条路在中途绕开一块巨石，仍通向终点",
+      "jpg": "images/1501-1600/somehow.jpg",
+      "webp": "images/1501-1600/somehow.webp"
     }
   ]
 }
