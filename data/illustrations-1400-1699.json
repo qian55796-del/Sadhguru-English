@@ -1548,6 +1548,111 @@
       "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. FIRST image is the fixed character identity reference: Shankara Pillai, rounded peach face, thin dark moustache, rounded long nose, brown side-parted hair with upward tufts and longer nape, charcoal suit, cream shirt, terracotta tie. Preserve his face, age, hair and clothing consistently; change pose to requested action. Second image guides medium only. Scene specification: 山卡拉把一只缠手的乱绳结甩离身体，绳已脱手",
       "jpg": "images/1501-1600/rid.jpg",
       "webp": "images/1501-1600/rid.webp"
+    },
+    {
+      "seq": 1561,
+      "word": "atmosphere",
+      "ip": "—",
+      "scene": "一间屋里围着一圈柔和的光带与几个小星点",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一间屋里围着一圈柔和的光带与几个小星点",
+      "jpg": "images/1501-1600/atmosphere.jpg",
+      "webp": "images/1501-1600/atmosphere.webp"
+    },
+    {
+      "seq": 1562,
+      "word": "expand",
+      "ip": "—",
+      "scene": "一个方框向外四支箭头撑开，虚线示出更大的框",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一个方框向外四支箭头撑开，虚线示出更大的框",
+      "jpg": "images/1501-1600/expand.jpg",
+      "webp": "images/1501-1600/expand.webp"
+    },
+    {
+      "seq": 1563,
+      "word": "conclusion",
+      "ip": "—",
+      "scene": "一条线走到末端，终点是一个大勾与一面小旗",
+      "kind": "reuse",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一条线走到末端，终点是一个大勾与一面小旗",
+      "jpg": "images/1501-1600/conclusion.jpg",
+      "webp": "images/1501-1600/conclusion.webp",
+      "reuse_word": "conclude"
+    },
+    {
+      "seq": 1564,
+      "word": "chemistry",
+      "ip": "—",
+      "scene": "复用 chemical 底图（试剂瓶与球棍分子模型），本词沿用同一张图",
+      "kind": "reuse",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 试剂瓶与球棍分子模型",
+      "jpg": "images/1501-1600/chemistry.jpg",
+      "webp": "images/1501-1600/chemistry.webp",
+      "reuse_word": "chemical"
+    },
+    {
+      "seq": 1565,
+      "word": "foundation",
+      "ip": "—",
+      "scene": "一栋房的地基露出地面，下方粗石层清晰可见",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一栋房的地基露出地面，下方粗石层清晰可见",
+      "jpg": "images/1501-1600/foundation.jpg",
+      "webp": "images/1501-1600/foundation.webp"
+    },
+    {
+      "seq": 1566,
+      "word": "complex",
+      "ip": "—",
+      "scene": "左：三条彼此缠绕的乱线；右：一条笔直的单线。本词圈乱线",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 左：三条彼此缠绕的乱线；右：一条笔直的单线。本词圈乱线",
+      "jpg": "images/1501-1600/complex.jpg",
+      "webp": "images/1501-1600/complex.webp"
+    },
+    {
+      "seq": 1567,
+      "word": "disaster",
+      "ip": "—",
+      "scene": "一片被大风吹倒的栅栏与散落的木料，天空乌云",
+      "kind": "reuse",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一片被大风吹倒的栅栏与散落的木料，天空乌云",
+      "jpg": "images/1501-1600/disaster.jpg",
+      "webp": "images/1501-1600/disaster.webp",
+      "reuse_word": "disastrous"
+    },
+    {
+      "seq": 1568,
+      "word": "consume",
+      "ip": "—",
+      "scene": "一台机器一端吞入原料、另一端吐出空壳",
+      "kind": "reuse",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一台机器一端吞入原料、另一端吐出空壳",
+      "jpg": "images/1501-1600/consume.jpg",
+      "webp": "images/1501-1600/consume.webp",
+      "reuse_word": "consumption"
+    },
+    {
+      "seq": 1569,
+      "word": "absolute",
+      "ip": "—",
+      "scene": "一条竖线顶到最上端边界，顶端一个实心点",
+      "kind": "generate",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一条竖线顶到最上端边界，顶端一个实心点",
+      "jpg": "images/1501-1600/absolute.jpg",
+      "webp": "images/1501-1600/absolute.webp"
+    },
+    {
+      "seq": 1570,
+      "word": "capable",
+      "ip": "—",
+      "scene": "复用 ability 底图（一只手轻松提起三种重物），本词沿用同一张图",
+      "kind": "reuse",
+      "prompt": "Use case: illustration-story / scientific-educational. Create ONE square vocabulary flashcard illustration, not a collage of unrelated words. Warm cream paper, delicate watercolor wash and colored-pencil texture, thin warm-brown slightly uneven outlines, muted ochre, terracotta, olive, charcoal and dusty blue. Simple clear silhouettes, compact centered scene, generous blank margins. No word labels, captions, letters, digits, logo, watermark, border, 3D or photorealism. Explicitly requested symbols, question marks, check marks, arrows and nonverbal scribbles are allowed. Follow the Chinese scene specification precisely. If a comparison scene requests a circle, include a thin terracotta circle around ONLY the requested subject. Reference image guides watercolor medium and palette only; do not copy its subject. Scene specification: 一只手轻松提起三种重物",
+      "jpg": "images/1501-1600/capable.jpg",
+      "webp": "images/1501-1600/capable.webp",
+      "reuse_word": "ability"
     }
   ]
 }
